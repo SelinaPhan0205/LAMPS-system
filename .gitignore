@@ -53,3 +53,7 @@ Thumbs.db
 .vscode/
 *.iml
 demo/server_*.log
+statistics/
+*.tex
+*.bib
+images/

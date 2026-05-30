@@ -1,0 +1,1 @@
+{'Accuracy': 0.9833333333333333, 'Precision': 1.0, 'Recall': 0.9659090909090909, 'F1-score': 0.9826589595375722, 'ConfusionMatrix': {'TP': 85, 'TN': 92, 'FP': 0, 'FN': 3}}
