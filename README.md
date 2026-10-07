@@ -64,6 +64,16 @@ evaluation/
   run_d1_protocol.py            D1 evaluation protocol
   run_d2_protocol.py            D2 evaluation protocol with head/head_tail/sliding strategies
   run_d2_imbalanced.py          G3 real-world imbalance evaluation
+  MP_Hunter.ipynb               MP-Hunter baseline/comparison notebook
+
+TF-IDF/
+  cfg88_01_final.ipynb          TF-IDF baseline notebook
+
+codebert_finetuned/
+  code/                         CodeBERT baseline train/evaluate/infer code
+  data/                         JSONL train/val/test splits used for fine-tuning
+  evaluator/                    Auxiliary evaluator
+  logs/                         Baseline run logs
 
 demo/
   backend/                      FastAPI scanner API
